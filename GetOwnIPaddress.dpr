@@ -1,4 +1,4 @@
-program proGetOwnIPaddress;
+program GetOwnIPaddress;
 
 uses
   Vcl.Forms,
